@@ -1,18 +1,26 @@
 # TeamFlow – Team Task Manager
 
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 10 33 50 AM" src="https://github.com/user-attachments/assets/9d49bdcc-65b0-4d85-bfbe-c2b20a9fa4a8" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 54 PM" src="https://github.com/user-attachments/assets/10d2e4b1-477f-483a-b483-37bb82014735" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 03 PM" src="https://github.com/user-attachments/assets/2167e640-dc57-45f8-bcd8-2bf75e17e7e5" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 06 PM" src="https://github.com/user-attachments/assets/0d4eec66-befe-470b-8062-25ba077929f2" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 07 06 PM" src="https://github.com/user-attachments/assets/276938b9-ef94-44de-a375-d3b6cde4c3d2" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 46 PM" src="https://github.com/user-attachments/assets/440759ce-02ee-4b62-a606-13b2e13c48b7" />
 
 A full-stack, production-ready team task management application built with React, Node.js, Express, and MongoDB.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d49bdcc-65b0-4d85-bfbe-c2b20a9fa4a8" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10d2e4b1-477f-483a-b483-37bb82014735" width="390"/>
+  <img src="https://github.com/user-attachments/assets/2167e640-dc57-45f8-bcd8-2bf75e17e7e5" width="390"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d4eec66-befe-470b-8062-25ba077929f2" width="390"/>
+  <img src="https://github.com/user-attachments/assets/276938b9-ef94-44de-a375-d3b6cde4c3d2" width="390"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/440759ce-02ee-4b62-a606-13b2e13c48b7" width="800"/>
+</p>
 
 ## 🚀 Quick Start
 
