@@ -1,9 +1,8 @@
 # TeamFlow – Team Task Manager
 
+<img width="1470" height="956" alt="Screenshot 2026-05-10 at 10 33 50 AM" src="https://github.com/user-attachments/assets/9d49bdcc-65b0-4d85-bfbe-c2b20a9fa4a8" />
 
 <img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 54 PM" src="https://github.com/user-attachments/assets/10d2e4b1-477f-483a-b483-37bb82014735" />
-
-<img width="1470" height="956" alt="Screenshot 2026-05-10 at 10 33 50 AM" src="https://github.com/user-attachments/assets/9d49bdcc-65b0-4d85-bfbe-c2b20a9fa4a8" />
 
 <img width="1470" height="956" alt="Screenshot 2026-05-10 at 2 06 03 PM" src="https://github.com/user-attachments/assets/2167e640-dc57-45f8-bcd8-2bf75e17e7e5" />
 
