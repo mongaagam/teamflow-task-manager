@@ -1,0 +1,14 @@
+⚠️ MongoDB connection failed for mongodb+srv://arshiasharma163:u0kR9RpobQoq0j2p@cluster0.qxbhu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0: querySrv ECONNREFUSED _mongodb._tcp.cluster0.qxbhu.mongodb.net
+✅ MongoDB connected
+🚀 Server running on port 5001
+::1 - - [10/May/2026:05:17:10 +0000] "POST /api/auth/login HTTP/1.1" 401 37 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:18:01 +0000] "POST /api/auth/login HTTP/1.1" 200 522 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:18:09 +0000] "POST /api/auth/login HTTP/1.1" 200 522 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:26:51 +0000] "GET /health HTTP/1.1" 200 54 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:27:01 +0000] "GET /health HTTP/1.1" 200 54 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:27:18 +0000] "POST /api/auth/login HTTP/1.1" 200 522 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:27:25 +0000] "POST /api/auth/login HTTP/1.1" 200 522 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:27:25 +0000] "GET /api/projects HTTP/1.1" 200 3266 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:28:26 +0000] "POST /api/auth/login HTTP/1.1" 200 522 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:28:26 +0000] "GET /api/auth/me HTTP/1.1" 200 311 "-" "curl/8.7.1"
+::1 - - [10/May/2026:05:28:26 +0000] "GET /api/tasks HTTP/1.1" 200 9631 "-" "curl/8.7.1"
